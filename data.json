@@ -1,0 +1,20 @@
+[
+    {
+        "school": "University of Science and Technology of China",
+        "major": "Information Security",
+        "type": "BS",
+        "year": 2004
+    },
+    {
+        "school": "Boston University",
+        "major": "Software Development",
+        "type": "ME",
+        "year": 2024
+    },
+    {
+        "school": "Imaginary Music College",
+        "major": "Piano Performing",
+        "type": "MS",
+        "year": 2025
+    }
+]
